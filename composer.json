@@ -1,0 +1,6 @@
+{
+    "require": {
+        "catfan/Medoo": "^1.5",
+        "jaeger/querylist-ext-dimage": "^1.1"
+    }
+}
